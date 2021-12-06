@@ -7,4 +7,3 @@ Created using 2020 Census Data, QGIS, and Adobe Illustrator.
 
 [Download a PDF of map](JeffersonCounty_Vacancy.pdf)
 
-[https://stewartcampbell1380.github.io/jeffco-vancancy-map/]
